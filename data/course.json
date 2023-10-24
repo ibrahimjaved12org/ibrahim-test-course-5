@@ -1,0 +1,33 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahim-test-course-5"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahim-test-course-5"
+  },
+  "course_title": "course2",
+  "course_description": "",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "124",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ibrahim-test-course-5"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "3d855d35-e73f-4464-a9c5-c2096a1f5f01",
+  "site_short_id": "ibrahim-test-course-5"
+}
